@@ -1,0 +1,8 @@
+## Interface: 110007
+## Author: Cuppycake aka IHealDrunk a.k.a Heather <3
+## Version: 2.5
+## Title: |cff1784d1ElvUI|r |cffff0081M|r|cffff48a5e|r|cffff77bcd|r|cffffaed7i|r|cffffcae5a|r
+## Notes: Fonts, Textures, Sounds
+## RequiredDeps: ElvUI
+
+ElvUI_Media.lua

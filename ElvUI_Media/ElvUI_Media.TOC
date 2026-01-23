@@ -1,4 +1,4 @@
-## Interface: 110007
+## Interface: 120000
 ## Author: Cuppycake aka IHealDrunk a.k.a Heather <3
 ## Version: 3.0
 ## Title: |cff1784d1ElvUI|r |cffff0081M|r|cffff48a5e|r|cffff77bcd|r|cffffaed7i|r|cffffcae5a|r
@@ -6,4 +6,5 @@
 ## RequiredDeps: ElvUI
 
 ElvUI_Media.lua
+
 

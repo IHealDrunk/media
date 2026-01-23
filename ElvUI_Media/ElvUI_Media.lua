@@ -1,4 +1,13 @@
-local LSM = LibStub("LibSharedMedia-3.0") 
+local f = CreateFrame("Frame")
+f:RegisterEvent("PLAYER_LOGIN")
+f:SetScript("OnEvent", function()
+    local LSM = LibStub and LibStub("LibSharedMedia-3.0", true)
+    if not LSM then
+        print("|cffff0000ElvUI_MaMedia|r: LibSharedMedia not found")
+        return
+    end
+
+    print("|cff1784d1ElvUI_MaMedia|r loaded")
 
 --FONTS
 LSM:Register("font","arialnarrow",[[Interface\Addons\ElvUI_Media\Fonts\arialnarrow.ttf]])
@@ -46,3 +55,4 @@ LSM:Register("icon","Gold 2",[[Interface\Addons\ElvUI_Media\Icons\Gold 2.tga]])
 LSM:Register("icon","Gold",[[Interface\Addons\ElvUI_Media\Icons\Gold.tga]])
 LSM:Register("icon","moneybag",[[Interface\Addons\ElvUI_Media\Icons\moneybag.tga]])
 LSM:Register("icon","piggybank",[[Interface\Addons\ElvUI_Media\Icons\piggybank.tga]])
+end)

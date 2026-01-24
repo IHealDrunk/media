@@ -8,5 +8,10 @@
 ## OptionalDeps: LibSharedMedia-3.0
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
+## Notes: Fonts, textures, and sounds for ElvUI via LibSharedMedia
+## X-Credits: Community-created assets used with attribution where possible
+## X-License: Non-commercial, personal-use media compilation
+
 
 ElvUI_Media.lua
+

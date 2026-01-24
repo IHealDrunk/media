@@ -3,7 +3,7 @@ f:RegisterEvent("PLAYER_LOGIN")
 f:SetScript("OnEvent", function()
     local LSM = LibStub and LibStub("LibSharedMedia-3.0", true)
     if not LSM then
-        print("|cffff0000ElvUI_MaMedia|r: LibSharedMedia not found")
+        print("|cffff0000ElvUI_Media|r: LibSharedMedia not found")
         return
     end
 
@@ -56,3 +56,4 @@ LSM:Register("icon","Gold",[[Interface\Addons\ElvUI_Media\Icons\Gold.tga]])
 LSM:Register("icon","moneybag",[[Interface\Addons\ElvUI_Media\Icons\moneybag.tga]])
 LSM:Register("icon","piggybank",[[Interface\Addons\ElvUI_Media\Icons\piggybank.tga]])
 end)
+

@@ -1,4 +1,4 @@
-local LSM = LibStub("LibSharedMedia-3.0") 
+local LSM = LibStub("LibSharedMedia-3.0")
 
 --FONTS
 LSM:Register("font","arialnarrow",[[Interface\Addons\ElvUI_Media\Fonts\arialnarrow.ttf]])
@@ -46,3 +46,6 @@ LSM:Register("icon","Gold 2",[[Interface\Addons\ElvUI_Media\Icons\Gold 2.tga]])
 LSM:Register("icon","Gold",[[Interface\Addons\ElvUI_Media\Icons\Gold.tga]])
 LSM:Register("icon","moneybag",[[Interface\Addons\ElvUI_Media\Icons\moneybag.tga]])
 LSM:Register("icon","piggybank",[[Interface\Addons\ElvUI_Media\Icons\piggybank.tga]])
+end)
+
+

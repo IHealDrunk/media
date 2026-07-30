@@ -1,59 +1,144 @@
-# How to Download My Media Addon from GitHub
+# ElvUI Media
 
-**Disclaimer**: This addon is for personal use, and I never intend to push it to other public platforms.  
-Some files have been picked out of other sources in the WoW community, and others are personally made.
+A collection of custom **Fonts**, **Statusbar Textures**, **Sounds**, **Details! Textures**, and **Icons** for World of Warcraft.
 
-Follow these steps to download and install the media files from this repository.  
-This media package is designed for use with the **ElvUI Addon**.
+Designed for **ElvUI** and compatible with any addon that uses **LibSharedMedia-3.0**.
 
 ---
 
-## Step 1: Download the ZIP File
-1. Go to the repository page.
-2. Click the **`<> Code`** button at the top right of the repository page.
-3. Select **Download ZIP** to download the repository to your computer.
+## Features
+
+- Additional Fonts
+- Additional Statusbar Textures
+- Additional Sounds
+- Additional Details! Textures
+- Additional Icons
+- Automatic media registration
+- Compatible with ElvUI
+- Compatible with LibSharedMedia-3.0
 
 ---
 
-## Step 2: Extract the ZIP File
-1. Locate the ZIP file you just downloaded on your computer (usually in the "Downloads" folder).
-2. Right-click the file and select **Extract All...** or use any extraction tool to unzip the file.
+## Requirements
+
+- World of Warcraft
+- ElvUI
+- LibSharedMedia-3.0 (included with ElvUI)
 
 ---
 
-## Step 3: Locate the "ElvUI_Media" Folder
-1. After extracting, find the folder named **`ElvUI_Media`** inside the unzipped folder.
+# Installation
+
+## Step 1 – Download
+
+1. Click the **<> Code** button.
+2. Select **Download ZIP**.
 
 ---
 
-## Step 4: Install in World of Warcraft AddOns Folder
-1. Move the **`ElvUI_Media`** folder to your World of Warcraft AddOns directory:
-   - **Path**: `World of Warcraft/_retail_/Interface/AddOns`
-   
-   Ensure your folder structure looks like this:
-   - `World of Warcraft/_retail_/Interface/AddOns/ElvUI_Media`
+## Step 2 – Extract
 
-   ![This](https://github.com/IHealDrunk/media/blob/main/Images/AddOns_Folder.png)
+Extract the downloaded ZIP file.
 
 ---
 
-## Additional Notes
-- **ElvUI**: This media package is designed to work with the **ElvUI Addon**.  
-  If you don’t have ElvUI installed, you can get it from [Tukui's website](https://www.tukui.org/).
-- Make sure **ElvUI** is installed and updated before installing this media addon.
+## Step 3 – Install
+
+Move the **ElvUI_Media** folder into:
+
+```
+World of Warcraft
+└── _retail_
+    └── Interface
+        └── AddOns
+            └── ElvUI_Media
+```
+
+Your final folder should look like:
+
+```
+World of Warcraft/_retail_/Interface/AddOns/ElvUI_Media
+```
+
+![AddOn Folder](https://github.com/IHealDrunk/media/blob/main/Images/AddOns_Folder.png)
 
 ---
 
-## Troubleshooting
-- If the media files don't show up in-game after installation, ensure the **ElvUI** addon is installed and enabled.
-- If you don’t see the changes, check that the **ElvUI_Media** folder was placed correctly in the **AddOns** directory and not inside any subfolders.
+# Usage
+
+After launching the game, the included media will automatically become available in addons that support **LibSharedMedia**, including:
+
+- ElvUI
+- WeakAuras
+- Details!
+- Plater
+- and many others
 
 ---
+
+# Screenshots
 
 <p align="center">
-  <img src="https://github.com/IHealDrunk/media/blob/main/Images/WoWScrnShot_111025_111736.jpg?raw=true" width="450" title="Mishmash" />
-  <img src="https://github.com/IHealDrunk/media/blob/main/Images/UIDark.jpg?raw=true" width="450" title="IHealDrunk_Dark" />
-  <img src="https://github.com/IHealDrunk/media/blob/main/Images/UIColor.jpg?raw=true" width="450" title="IHealDrunk_Color" />
-   <img src="https://github.com/IHealDrunk/media/blob/main/Images/WoWScrnShot_120517_092945.jpg" width="450" title="Profit_Remake" />
+  <img src="https://github.com/IHealDrunk/media/blob/main/Images/WoWScrnShot_111025_111736.jpg?raw=true" width="450"/>
+  <img src="https://github.com/IHealDrunk/media/blob/main/Images/UIDark.jpg?raw=true" width="450"/>
+  <img src="https://github.com/IHealDrunk/media/blob/main/Images/UIColor.jpg?raw=true" width="450"/>
+  <img src="https://github.com/IHealDrunk/media/blob/main/Images/WoWScrnShot_120517_092945.jpg?raw=true" width="450"/>
 </p>
 
+---
+
+# Troubleshooting
+
+If your media does not appear:
+
+- Verify ElvUI is installed.
+- Verify the addon is enabled.
+- Make sure the folder is not nested inside another folder.
+- Reload the UI using:
+
+```
+/reload
+```
+
+---
+
+# Developer Information
+
+All media registration is generated automatically.
+
+Whenever fonts, textures, sounds, or icons are added or removed, simply run:
+
+```
+update_media.bat
+```
+
+This rebuilds:
+
+```
+ElvUI_Media.lua
+```
+
+No manual Lua editing is required.
+
+---
+
+# Credits
+
+This addon contains a mixture of:
+
+- Original custom-created media
+- Community-created media shared within the World of Warcraft UI community
+
+Every effort has been made to respect original creators.
+
+If you are the creator of an included asset and would like credit updated or an asset removed, please contact me.
+
+---
+
+# License
+
+This project is intended for personal and community use.
+
+No monetization or paid distribution is intended.
+
+Third-party assets remain the property of their respective creators.

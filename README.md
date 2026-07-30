@@ -1,8 +1,15 @@
-# ElvUI Media
+# IHealDrunk_Media
 
-A collection of custom **Fonts**, **Statusbar Textures**, **Sounds**, **Details! Textures**, and **Icons** for World of Warcraft.
+This addon provides additional fonts, statusbars, sounds, Details! textures,
+and icons for any addon that supports LibSharedMedia, including:
 
-Designed for **ElvUI** and compatible with any addon that uses **LibSharedMedia-3.0**.
+• ElvUI
+• Details!
+• Plater
+• Shadowed Unit Frames
+• BigWigs
+• DBM
+• and many others.
 
 ---
 
@@ -22,8 +29,7 @@ Designed for **ElvUI** and compatible with any addon that uses **LibSharedMedia-
 ## Requirements
 
 - World of Warcraft
-- ElvUI
-- LibSharedMedia-3.0 (included with ElvUI)
+- LibSharedMedia-3.0
 
 ---
 
@@ -44,20 +50,20 @@ Extract the downloaded ZIP file.
 
 ## Step 3 – Install
 
-Move the **ElvUI_Media** folder into:
+Move the **IHealDrunk_Media** folder into:
 
 ```
 World of Warcraft
 └── _retail_
     └── Interface
         └── AddOns
-            └── ElvUI_Media
+            └── IHealDrunk_Media
 ```
 
 Your final folder should look like:
 
 ```
-World of Warcraft/_retail_/Interface/AddOns/ElvUI_Media
+World of Warcraft/_retail_/Interface/AddOns/IHealDrunk_Media
 ```
 
 ![AddOn Folder](https://github.com/IHealDrunk/media/blob/main/Images/AddOns_Folder.png)
@@ -91,7 +97,6 @@ After launching the game, the included media will automatically become available
 
 If your media does not appear:
 
-- Verify ElvUI is installed.
 - Verify the addon is enabled.
 - Make sure the folder is not nested inside another folder.
 - Reload the UI using:
@@ -115,7 +120,7 @@ update_media.bat
 This rebuilds:
 
 ```
-ElvUI_Media.lua
+IHealDrunk_Media.lua
 ```
 
 No manual Lua editing is required.

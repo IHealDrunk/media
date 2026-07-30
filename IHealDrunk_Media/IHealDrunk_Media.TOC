@@ -1,0 +1,19 @@
+## Interface: 120007
+
+## Title: |cffff0081I|r|cffff2c90H|r|cffff58a0e|r|cffff84afa|r|cffffb0bfl|r|cffffdccfD|r|cfffff0dfr|r|cffffdccfu|r|cffffb0bfn|r|cffff84afk|r |cffff58a0M|r|cffff2c90e|r|cffff0081d|r|cff8d6dffi|r|cff7ab7ffa|r
+
+## Notes: Fonts, textures, and sounds for ElvUI via LibSharedMedia
+
+## Author: IHealDrunk
+## Version: 3.8.0
+## Category: Media
+
+## OptionalDeps: LibSharedMedia-3.0
+
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+## X-Credits: Community-created assets used with attribution where applicable.
+## X-License: Personal and non-commercial use.
+
+ElvUI_Media.lua

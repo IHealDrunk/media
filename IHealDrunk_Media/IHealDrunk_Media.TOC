@@ -1,4 +1,4 @@
-## Interface: 120007
+## Interface: 120100
 
 ## Title: |cffff0081I|r|cffff2c90H|r|cffff58a0e|r|cffff84afa|r|cffffb0bfl|r|cffffdccfD|r|cfffff0dfr|r|cffffdccfu|r|cffffb0bfn|r|cffff84afk|r |cff64d8fbM|r|cff80deeae|r|cffb2ebf2d|r|cffe0f7faia|r
 ## Notes: Shared media for LibSharedMedia-compatible addons.

@@ -1,0 +1,50 @@
+D	ElvUI_Media/ElvUI_Media.TOC
+D	ElvUI_Media/ElvUI_Media.lua
+D	ElvUI_Media/README.txt
+D	ElvUI_Media/update_media.bat
+R100	ElvUI_Media/Details/kmt-details.tga	IHealDrunk_Media/Details/kmt-details.tga
+R100	ElvUI_Media/Details/kmt-details2.tga	IHealDrunk_Media/Details/kmt-details2.tga
+R100	ElvUI_Media/Details/kmt-details3.tga	IHealDrunk_Media/Details/kmt-details3.tga
+R100	ElvUI_Media/Details/kmt-details4.blp	IHealDrunk_Media/Details/kmt-details4.blp
+R100	ElvUI_Media/Details/kmt-spec.tga	IHealDrunk_Media/Details/kmt-spec.tga
+R095	ElvUI_Media/Diag batch.bat	IHealDrunk_Media/Diag batch.bat
+R100	ElvUI_Media/Fonts/GothamN-Black.ttf	IHealDrunk_Media/Fonts/GothamN-Black.ttf
+R100	ElvUI_Media/Fonts/GothamNarrow Ultra.otf	IHealDrunk_Media/Fonts/GothamNarrow Ultra.otf
+R100	ElvUI_Media/Fonts/GothamNarrow-Black.ttf	IHealDrunk_Media/Fonts/GothamNarrow-Black.ttf
+R100	ElvUI_Media/Fonts/GothamXN Ultra.ttf	IHealDrunk_Media/Fonts/GothamXN Ultra.ttf
+R100	ElvUI_Media/Fonts/GothamXN-Black.ttf	IHealDrunk_Media/Fonts/GothamXN-Black.ttf
+R100	ElvUI_Media/Fonts/GothamXNarrow-Black.ttf	IHealDrunk_Media/Fonts/GothamXNarrow-Black.ttf
+R100	ElvUI_Media/Fonts/KMT-GothamN-Black.ttf	IHealDrunk_Media/Fonts/KMT-GothamN-Black.ttf
+R100	ElvUI_Media/Fonts/KMT-GothamNarrow Ultra.otf	IHealDrunk_Media/Fonts/KMT-GothamNarrow Ultra.otf
+R100	ElvUI_Media/Fonts/KMT-GothamNarrow-Black.ttf	IHealDrunk_Media/Fonts/KMT-GothamNarrow-Black.ttf
+R100	ElvUI_Media/Fonts/KMT-GothamXN Ultra.ttf	IHealDrunk_Media/Fonts/KMT-GothamXN Ultra.ttf
+R100	ElvUI_Media/Fonts/KMT-GothamXN-Black.ttf	IHealDrunk_Media/Fonts/KMT-GothamXN-Black.ttf
+R100	ElvUI_Media/Fonts/KMT-GothamXNarrow-Black.ttf	IHealDrunk_Media/Fonts/KMT-GothamXNarrow-Black.ttf
+R100	ElvUI_Media/Fonts/Lovely Bubbles Italic.ttf	IHealDrunk_Media/Fonts/Lovely Bubbles Italic.ttf
+R100	ElvUI_Media/Fonts/Lovely Bubbles.ttf	IHealDrunk_Media/Fonts/Lovely Bubbles.ttf
+R100	ElvUI_Media/Fonts/Nice Sugar.ttf	IHealDrunk_Media/Fonts/Nice Sugar.ttf
+R100	ElvUI_Media/Fonts/arialnarrow.ttf	IHealDrunk_Media/Fonts/arialnarrow.ttf
+R100	ElvUI_Media/Fonts/arialnarrow_bold.ttf	IHealDrunk_Media/Fonts/arialnarrow_bold.ttf
+R100	ElvUI_Media/Fonts/arialnarrow_bolditalic.ttf	IHealDrunk_Media/Fonts/arialnarrow_bolditalic.ttf
+R100	ElvUI_Media/Fonts/arialnarrow_italic.ttf	IHealDrunk_Media/Fonts/arialnarrow_italic.ttf
+R100	ElvUI_Media/Fonts/big_noodle_titling.ttf	IHealDrunk_Media/Fonts/big_noodle_titling.ttf
+R100	ElvUI_Media/Fonts/big_noodle_titling_oblique.ttf	IHealDrunk_Media/Fonts/big_noodle_titling_oblique.ttf
+A	IHealDrunk_Media/IHealDrunk_Media.TOC
+A	IHealDrunk_Media/IHealDrunk_Media.lua
+R100	ElvUI_Media/Icons/Gold 2.tga	IHealDrunk_Media/Icons/Gold 2.tga
+R100	ElvUI_Media/Icons/Gold.tga	IHealDrunk_Media/Icons/Gold.tga
+R100	ElvUI_Media/Icons/currency.tga	IHealDrunk_Media/Icons/currency.tga
+R100	ElvUI_Media/Icons/moneybag.tga	IHealDrunk_Media/Icons/moneybag.tga
+R100	ElvUI_Media/Icons/piggybank.tga	IHealDrunk_Media/Icons/piggybank.tga
+A	IHealDrunk_Media/README.txt
+R100	ElvUI_Media/Sounds/KMT-sylvanas_fth.mp3	IHealDrunk_Media/Sounds/KMT-sylvanas_fth.mp3
+R100	ElvUI_Media/Statusbar/KMT35.tga	IHealDrunk_Media/Statusbar/KMT35.tga
+R100	ElvUI_Media/Statusbar/KMT47.tga	IHealDrunk_Media/Statusbar/KMT47.tga
+R100	ElvUI_Media/Statusbar/One.tga	IHealDrunk_Media/Statusbar/One.tga
+R100	ElvUI_Media/Statusbar/PaqUI.tga	IHealDrunk_Media/Statusbar/PaqUI.tga
+R100	ElvUI_Media/Statusbar/n33.tga	IHealDrunk_Media/Statusbar/n33.tga
+R100	ElvUI_Media/icon.tga	IHealDrunk_Media/icon.tga
+A	IHealDrunk_Media/update_media.bat
+M	Images/AddOns_Folder.png
+D	Images/Download.png
+M	README.md
